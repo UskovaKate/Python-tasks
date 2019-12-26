@@ -1,5 +1,4 @@
 #Нарисуйте полную блок-схему алгоритма сортировки массива «методом пузырька».
-
 import random
 N=random.randint(1, 100)
 array = [random.randint(1, 10) for i in range(N)]
